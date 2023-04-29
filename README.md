@@ -1,1 +1,1 @@
-# Hazard-Token-Grabber-V3
+Hazard Token Grabber V3 🔰
